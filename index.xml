@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salma&#39;s Personal Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://sdessouki.github.io/</link>
     <description>Recent content on Salma&#39;s Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 May 2019 12:32:29 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2019 18:13:21 +0100</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sdessouki.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Week 1 almost done!</title>
+      <link>https://sdessouki.github.io/posts/my-second-post/</link>
+      <pubDate>Thu, 30 May 2019 18:13:21 +0100</pubDate>
+      
+      <guid>https://sdessouki.github.io/posts/my-second-post/</guid>
+      <description>This is my second post after completing almost my first week of the course. It&amp;rsquo;s been really exciting, I learnt a lot about the rules of poker which was interesting. I decided to pick the hard way of coding the game taking into consideration all the suits and hands, which meant I did not get to finish but I invested around 8 hours into it, which I think is a sufficient amount.</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://sdessouki.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 29 May 2019 12:32:29 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://sdessouki.github.io/posts/my-first-post/</guid>
       <description>My name is Salma Dessouki and I am enjoying Lisbon. The data science course is interesting thus far but I was familiar with most of the code so it&amp;rsquo;s been good. Lisbon weather is really nice especially coming from Toronto which is really cold. Anyways, I hope you enjoy scrolling through my blog!</description>
     </item>
     
